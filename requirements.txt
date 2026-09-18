@@ -3,3 +3,8 @@ pandas
 scipy
 matplotlib
 biopython
+statsmodels
+Pillow
+python-docx
+rapidfuzz
+pytesseract
