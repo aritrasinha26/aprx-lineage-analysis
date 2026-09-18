@@ -6,7 +6,7 @@ Code accompanying the manuscript:
 
 ## Contents
 
-The `scripts/` directory contains the staged analysis workflow used for:
+The python scripts in the repository contains the staged analysis workflow used for:
 
 - phenotype extraction and integration
 - AprX/serralysin sequence screening
